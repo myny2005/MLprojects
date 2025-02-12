@@ -33,6 +33,28 @@ This project involves generating Shakespearean-style text using deep learning mo
 
 This project showcases how deep learning can be applied to natural language generation, mimicking the style of historical texts.
 
+### 5. MNIST - Comparing Machine Learning Libraries for Digit Classification
+
+This project explores different machine learning libraries to determine which one is the most efficient for classifying digits from the MNIST dataset. The following libraries and models are tested:
+
+scikit-learn:
+Decision Tree Classifier
+Random Forest Classifier
+Logistic Regression
+K-nearest neighbors
+Support Vector Machine
+Naive Bayes
+
+TensorFlow:
+Simple Neural Network
+Convolutional Neural Network
+
+PyTorch:
+Simple Neural Network
+Convolutional Neural Network
+
+Additionally, Matplotlib is used for data visualization, and NumPy is employed for general data processing, including building a neural network from scratch.
+
 ## Getting Started
 
 To explore any of these projects, simply clone this repository:
