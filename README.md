@@ -37,23 +37,23 @@ This project showcases how deep learning can be applied to natural language gene
 
 This project explores different machine learning libraries to determine which one is the most efficient for classifying digits from the MNIST dataset. The following libraries and models are tested:
 
-scikit-learn:
-Decision Tree Classifier
-Random Forest Classifier
-Logistic Regression
-K-nearest neighbors
-Support Vector Machine
-Naive Bayes
+**scikit-learn**:
+- Decision Tree Classifier
+- Random Forest Classifier
+- Logistic Regression
+- K-nearest neighbors
+- Support Vector Machine
+- Naive Bayes
 
-TensorFlow:
-Simple Neural Network
-Convolutional Neural Network
+**TensorFlow**:
+- Simple Neural Network
+- Convolutional Neural Network
 
-PyTorch:
-Simple Neural Network
-Convolutional Neural Network
+**PyTorch**:
+- Simple Neural Network
+- Convolutional Neural Network
 
-Additionally, Matplotlib is used for data visualization, and NumPy is employed for general data processing, including building a neural network from scratch.
+Additionally, **Matplotlib** is used for data visualization, and **NumPy** is employed for general data processing, including building a neural network from scratch.
 
 ## Getting Started
 
